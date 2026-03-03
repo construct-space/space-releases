@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-03T16:11:33.000Z",
+  "updated_at": "2026-03-03T16:46:00.000Z",
   "spaces": [
     {
       "id": "ai",
@@ -9,8 +9,9 @@
       "description": "AI-powered project assistant",
       "icon": "i-lucide-sparkles",
       "scope": "both",
+      "recommended": true,
       "repo": "construct-base/space-ai",
-      "tarball": "spaces/ai/space-ai-v0.2.1.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/ai-v0.2.1/space-ai-v0.2.1.tar.gz",
       "released_at": "2026-03-03T16:11:33.000Z"
     },
     {
@@ -21,7 +22,7 @@
       "icon": "i-lucide-compass",
       "scope": "both",
       "repo": "construct-base/space-architect",
-      "tarball": "spaces/architect/space-architect-v0.2.0.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/architect-v0.2.0/space-architect-v0.2.0.tar.gz",
       "released_at": "2026-03-03T15:02:11.694Z"
     },
     {
@@ -32,7 +33,7 @@
       "icon": "i-lucide-calendar",
       "scope": "both",
       "repo": "construct-base/space-calendar",
-      "tarball": "spaces/calendar/space-calendar-v0.2.0.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/calendar-v0.2.0/space-calendar-v0.2.0.tar.gz",
       "released_at": "2026-03-03T15:02:11.794Z"
     },
     {
@@ -42,8 +43,9 @@
       "description": "Team chat with AI",
       "icon": "i-lucide-messages-square",
       "scope": "both",
+      "recommended": true,
       "repo": "construct-base/space-chat",
-      "tarball": "spaces/chat/space-chat-v0.2.1.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/chat-v0.2.1/space-chat-v0.2.1.tar.gz",
       "released_at": "2026-03-03T16:11:33.000Z"
     },
     {
@@ -53,8 +55,9 @@
       "description": "Code editor with terminal and git",
       "icon": "i-lucide-code",
       "scope": "both",
+      "recommended": true,
       "repo": "construct-base/space-code",
-      "tarball": "spaces/code/space-code-v0.3.1.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/code-v0.3.1/space-code-v0.3.1.tar.gz",
       "released_at": "2026-03-03T16:11:33.000Z"
     },
     {
@@ -64,8 +67,9 @@
       "description": "Visual design with PixiJS — Figma-like design tool",
       "icon": "i-lucide-pen-tool",
       "scope": "both",
+      "recommended": true,
       "repo": "construct-base/space-design",
-      "tarball": "spaces/design/space-design-v0.3.0.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/design-v0.3.0/space-design-v0.3.0.tar.gz",
       "released_at": "2026-03-03T15:02:12.343Z"
     },
     {
@@ -76,7 +80,7 @@
       "icon": "i-lucide-book-open",
       "scope": "both",
       "repo": "construct-base/space-docs",
-      "tarball": "spaces/docs/space-docs-v0.2.0.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/docs-v0.2.0/space-docs-v0.2.0.tar.gz",
       "released_at": "2026-03-03T15:02:12.443Z"
     },
     {
@@ -86,8 +90,9 @@
       "description": "Git repository management",
       "icon": "i-lucide-git-branch",
       "scope": "both",
+      "recommended": true,
       "repo": "construct-base/space-git",
-      "tarball": "spaces/git/space-git-v0.2.1.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/git-v0.2.1/space-git-v0.2.1.tar.gz",
       "released_at": "2026-03-03T16:11:33.000Z"
     },
     {
@@ -98,7 +103,7 @@
       "icon": "i-lucide-check-square",
       "scope": "both",
       "repo": "construct-base/space-kanban",
-      "tarball": "spaces/kanban/space-kanban-v0.2.0.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/kanban-v0.2.0/space-kanban-v0.2.0.tar.gz",
       "released_at": "2026-03-03T15:02:12.864Z"
     },
     {
@@ -109,7 +114,7 @@
       "icon": "i-lucide-sticky-note",
       "scope": "both",
       "repo": "construct-base/space-notes",
-      "tarball": "spaces/notes/space-notes-v0.2.0.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/notes-v0.2.0/space-notes-v0.2.0.tar.gz",
       "released_at": "2026-03-03T15:02:12.964Z"
     },
     {
@@ -120,7 +125,7 @@
       "icon": "i-lucide-terminal",
       "scope": "both",
       "repo": "construct-base/space-terminal",
-      "tarball": "spaces/terminal/space-terminal-v0.2.0.tar.gz",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/terminal-v0.2.0/space-terminal-v0.2.0.tar.gz",
       "released_at": "2026-02-25T20:50:09Z"
     }
   ]
