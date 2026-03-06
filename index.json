@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-03T16:46:00.000Z",
+  "updated_at": "2026-03-06T02:30:00.000Z",
   "spaces": [
     {
       "id": "ai",
@@ -127,6 +127,17 @@
       "repo": "construct-base/space-terminal",
       "tarball": "https://github.com/construct-space/space-releases/releases/download/terminal-v0.2.0/space-terminal-v0.2.0.tar.gz",
       "released_at": "2026-02-25T20:50:09Z"
+    },
+    {
+      "id": "projects",
+      "name": "Projects",
+      "version": "0.1.1",
+      "description": "Projects space for Construct",
+      "icon": "i-lucide-bandage",
+      "scope": "both",
+      "repo": "construct-space/space-projects",
+      "tarball": "https://github.com/construct-space/space-releases/releases/download/projects-v0.1.1/space-projects-v0.1.1.tar.gz",
+      "released_at": "2026-03-06T02:30:00.000Z"
     }
   ]
 }
